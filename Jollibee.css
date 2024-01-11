@@ -1,0 +1,38 @@
+#Jollibee {
+
+	background-color: indianred ;
+     color: black;
+     font-style: italic;
+     border: solid;
+    
+}
+
+#Picture {
+text-align: center;
+	
+}
+#TEXT {
+
+
+
+    
+}
+#1{
+
+   background-color: lightyellow;
+
+}
+
+body{
+    background-color: #F08080;
+}
+
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: navajowhite;
+    border-color: black;
+    width: 100px;
+}
